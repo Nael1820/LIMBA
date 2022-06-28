@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				65,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Limbo Kid Left"
+		},
+		{
+			"offsets": [
+				43,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Limbo Kid Down"
+		},
+		{
+			"offsets": [
+				12,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Limbo Kid Right"
+		},
+		{
+			"offsets": [
+				46,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Limbo Kid Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Limbo Kid Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Limbo_Kid",
+	"position": [
+		200,
+		230
+	],
+	"healthicon": "limbokid",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-90,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
