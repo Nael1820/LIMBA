@@ -1,0 +1,32 @@
+{
+	"storyName": "Week One - The Nameless Boy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "limbo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Colourless",
+			"limbokid",
+			[
+				175,
+				175,
+				175
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Boy",
+	"hiddenUntilUnlocked": false
+}
